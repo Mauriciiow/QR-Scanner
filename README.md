@@ -1,4 +1,4 @@
-# QR Code Reader App (iOS)
+# QR Code Scanner App (iOS)
 
 Este é um aplicativo de leitor de QR code desenvolvido em React Native com Expo e TypeScript, especificamente para a plataforma iOS. Com este aplicativo, os usuários podem escanear códigos QR e obter informações relevantes a partir deles.
 
@@ -34,7 +34,7 @@ Siga as etapas abaixo para executar o aplicativo no iOS:
 2. Navegue até o diretório do projeto:
 
    ```
-   cd qr-code-reader-app
+   cd scanner
    ```
 
 3. Instale as dependências do projeto:
